@@ -1,14 +1,14 @@
 ## 介绍
 
-> **插件名称：**Freewind主题音乐播放器(老王重制版)
+> **插件名称：** Freewind主题音乐播放器(老王重制版)
 >
-> **作者：**Mr丶冷文 & 老王
+> **作者：** Mr丶冷文 & 老王
 >
-> **版本：**1.2
+> **版本：** 1.2
 >
-> **地址：**[Freewind Music](https://github.com/kevinlu98/FreewindMusic)
+> **地址：** [Freewind Music](https://github.com/kevinlu98/FreewindMusic)
 >
-> **描述信息：**支持加载QQ音乐、网易云音乐、酷狗音乐、百度音乐等音乐平台第三方歌单的音乐播放器
+> **描述信息：** 支持加载QQ音乐、网易云音乐、酷狗音乐、百度音乐等音乐平台第三方歌单的音乐播放器
 
 之前发了一款重制版的播放器，但有位朋友给了建议说可以弄成 [MetingJs](https://github.com/metowolf/MetingJS)这样方便些，后面了解了下[MetingJs](https://github.com/metowolf/MetingJS)，现发其可以集成QQ音乐、网易云音乐、酷狗音乐、百度音乐等音乐平台的歌，我们也就无需去配置歌曲的链接、图片、歌词等信息，这位朋友给我发了一个Demo版，我回头又改了下，不知道这位朋友叫什么，我们就暂且称为老王重制版吧
 
